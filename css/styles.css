@@ -1,0 +1,43 @@
+body {
+	margin: 40px 60px;
+	padding: 0; /* Note -> 2 */
+	font-size: .9em; /* -> 4 */
+	line-height: 1.25; /* -> 5 */
+		-webkit-font-smoothing: antialiased;
+	font-family: "Lucida Grande", Lucida, Verdana, sans-serif;
+	color: #2b2b2b;
+	background: white;
+}
+
+.entete {
+	text-align: center;
+	background-color: skyblue;
+	padding: 10px 30px;
+}
+
+.entete em {
+	font-weight: bold;
+	text-decoration: none;
+	font-variant: normal;
+	font-style: normal;
+}
+
+
+.adresse {
+	text-align: right;
+	padding: ;
+	padding-bottom: 20px;
+}
+
+h2 {
+	color: teal;
+	background-color: skyblue;
+	margin: 40px 0 0;
+}
+.annee {
+	background-color: transparent;
+}
+
+h3 {
+	display: inline;
+}
